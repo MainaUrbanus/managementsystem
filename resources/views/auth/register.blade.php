@@ -1,6 +1,7 @@
 <?php
+
 print <<<EOF
-<form>
+<form action="" method="">
 <b>First Name:</b> <br />
 <input type="text" id="firstname" name="firstname" required="required"/><br />
 <b>Last Name:</b> <br />
